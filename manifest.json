@@ -15,7 +15,7 @@
   "content_scripts": [
     {
       "matches": ["*://*/*"],
-      "js": ["lib/jquery-3.2.1.min.js", "index.js"]
+      "js": ["index.js"]
     }
   ],
   "offline_enabled": true,
